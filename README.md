@@ -10,7 +10,7 @@ Learning Rate = Default
 Epochs        = 32
 ```
 <p align="center">
-The train and validation root mean square error graphs are shown below.
+The train and validation root mean square error graphs of both frameworks are shown below.
   
 <img width=300 src='https://github.com/A-Janj/Emotion-Regression-in-the-Wild/blob/main/resources/CBAM_results.png'/>
 <img width=300 height=400 src='https://github.com/A-Janj/Emotion-Regression-in-the-Wild/blob/main/resources/VGG_results.png'/>
