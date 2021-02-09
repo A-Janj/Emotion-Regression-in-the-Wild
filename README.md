@@ -14,7 +14,7 @@ The train and validation root mean square error graphs of both frameworks are sh
   
 <img width=400 src='https://github.com/A-Janj/Emotion-Regression-in-the-Wild/blob/main/resources/CBAM_results.png'/>
 <img width=400 height=350 src='https://github.com/A-Janj/Emotion-Regression-in-the-Wild/blob/main/resources/VGG_results.png'/>
-<pre>                       CBAM Framework                                   Transfer Learning Framework </pre>
+<pre>                       CBAM Framework                               Transfer Learning Framework </pre>
 </p>
 <p align="center">
 The values of Valence and Arousal were used to find a categorical emotion using the 2D Emotion (Valence-Arousal) Wheel below.
