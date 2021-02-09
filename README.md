@@ -10,10 +10,10 @@ Learning Rate = Default
 Epochs        = 32
 ```
 <p align="center">
-The train and validation root mean square error graphs of CBAM framework and Transfer Learning framework are shown below.
+The train and validation root mean square error graphs are shown below.
   
-<img width=450 src='https://github.com/A-Janj/Emotion-Regression-in-the-Wild/blob/main/resources/CBAM_results.png'/>
-<img width=450 height=400 src='https://github.com/A-Janj/Emotion-Regression-in-the-Wild/blob/main/resources/VGG_results.png'/>
+<img width=300 src='https://github.com/A-Janj/Emotion-Regression-in-the-Wild/blob/main/resources/CBAM_results.png'/>
+<img width=300 height=400 src='https://github.com/A-Janj/Emotion-Regression-in-the-Wild/blob/main/resources/VGG_results.png'/>
 <pre>                       CBAM Framework                                   Transfer Learning Framework </pre>
 </p>
 <p align="center">
