@@ -13,7 +13,7 @@ Epochs        = 32
 The train and validation root mean square error graphs of both frameworks are shown below.
   
 <img width=400 src='https://github.com/A-Janj/Emotion-Regression-in-the-Wild/blob/main/resources/CBAM_results.png'/>
-<img width=400 height=400 src='https://github.com/A-Janj/Emotion-Regression-in-the-Wild/blob/main/resources/VGG_results.png'/>
+<img width=400 height=350 src='https://github.com/A-Janj/Emotion-Regression-in-the-Wild/blob/main/resources/VGG_results.png'/>
 <pre>                       CBAM Framework                                   Transfer Learning Framework </pre>
 </p>
 <p align="center">
